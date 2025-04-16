@@ -1,5 +1,6 @@
 import RecipeCard from "./recipe-card";
 import { Recipe } from "@/types/recipe";
+import styles from "./recipes-grid.module.scss"
 
 type RecipesGridProps = {
   recipes: Recipe[];
@@ -7,7 +8,7 @@ type RecipesGridProps = {
 
 export default function RecipesGrid({ recipes }: RecipesGridProps) {
   return (
-    <ul>
+    <ul className={styles['recipes-grid']}>
       {recipes.map((recipe) => (
         <RecipeCard
           key={recipe.id}

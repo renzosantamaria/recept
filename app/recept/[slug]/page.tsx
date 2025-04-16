@@ -15,8 +15,8 @@ export default async function RecipeDetailsPage({
 
     return (
       <main>
-        <h1>{recipe.name}</h1>
-        <p>{recipe.description}</p>
+          <h1>{recipe.name}</h1>
+          <p>{recipe.description}</p>
       </main>
     );
   }

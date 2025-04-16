@@ -1,3 +1,5 @@
+import styles from "./responsive-image.module.scss"
+
 type ResponsiveImageProps = {
     url: string;
     alt: string;
@@ -31,6 +33,7 @@ export default function ResponsiveImage({ url, alt, format }: ResponsiveImagePro
           src={`https://img.koket.se/standard-mini/${url}.webp`}
           alt={alt}
           loading="eager"
+          className={styles["responsive-image"]}
         />
       </picture>
     );
