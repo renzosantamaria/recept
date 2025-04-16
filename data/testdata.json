@@ -1,0 +1,2383 @@
+[
+    {
+        "id": 43295,
+        "name": "Provencalsk kycklinggryta",
+        "type": "recipe",
+        "url": "/provencalsk-kycklinggryta",
+        "description": "En riktigt krämig och god kycklinggryta med lite hetta. Så magiskt gott och perfekt att servera till både vardag och helg. ",
+        "ingredients": [
+            {
+                "id": 10199,
+                "name": "kycklinglårfilé",
+                "plural": "kycklinglårfiléer",
+                "amount_info": {
+                    "from": 800
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "type": "ingredient"
+            },
+            {
+                "id": 10793,
+                "name": "svartpeppar",
+                "preparation": "nymalen",
+                "type": "ingredient"
+            },
+            {
+                "id": 10934,
+                "name": "vitlök",
+                "plural": "vitlökar",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "klyfta",
+                "type": "ingredient"
+            },
+            {
+                "id": 10709,
+                "name": "smör",
+                "comment": "att steka i",
+                "type": "ingredient"
+            },
+            {
+                "id": 10919,
+                "name": "vispgrädde",
+                "amount_info": {
+                    "from": 3
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 733569,
+                "name": "koncentrerad kycklingfond",
+                "amount_info": {
+                    "to": 1.5,
+                    "from": 1
+                },
+                "unit": "msk",
+                "type": "ingredient"
+            },
+            {
+                "id": 10799,
+                "name": "sweet chilisås",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10842,
+                "name": "torkad oregano",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "msk",
+                "type": "ingredient"
+            },
+            {
+                "id": 10847,
+                "name": "torkad timjan",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "tsk",
+                "type": "ingredient"
+            },
+            {
+                "id": 9633,
+                "name": "chiliflakes",
+                "comment": "frivilligt",
+                "amount_info": {
+                    "from": 0.25
+                },
+                "unit": "krm",
+                "type": "ingredient"
+            },
+            {
+                "id": 10896,
+                "name": "vatten",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10131,
+                "name": "körsbärstomater",
+                "comment": "i olika färger",
+                "amount_info": {
+                    "from": 200
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 9650,
+                "name": "citron",
+                "plural": "citroner",
+                "comment": "saften",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "type": "ingredient"
+            },
+            {
+                "name": "Garnering",
+                "type": "header"
+            },
+            {
+                "id": 10275,
+                "name": "mâchesallad",
+                "type": "ingredient"
+            },
+            {
+                "name": "Tillbehör",
+                "type": "header"
+            },
+            {
+                "id": 10505,
+                "name": "potatis",
+                "plural": "potatisar",
+                "preparation": "pressad",
+                "comment": "eller ris",
+                "type": "ingredient"
+            }
+        ],
+        "instructions": "Putsa kycklingen, salta och peppra på båda sidor. Skala och finhacka vitlöken. \n\nHetta upp en stekpanna med smör och bryn kycklingen på båda sidor så att de får fin färg. \n\nLägg över kycklingen i en gryta med lock. \n\nTillsätt vitlök, vispgrädde, fond, sweet chilisås, oregano, timjan, (chiliflakes) och vatten i stekpannan för att ta tillvara på smaken. Vispa runt med handvisp och låt koka upp. \n\nHäll såsen över kycklingen och låt koka upp. \n\nSänk värmen och låt kycklingen puttra i såsen med locket på i 30–35 minuter. Smaka av då och då. Salta mer om det behövs. \n\nHalvera tomaterna. Blanda ner dem i grytan när kyck­lingen är klar och lätt går isär när man separerar den. Låt tomaterna småbubbla med i grytan i ett par minuter före servering. \n\nPrecis före servering tillsätts pressad citron för att höja syran något i denna gräddigt krämiga gryta. \n\n#Servering \nGarnera med mâchesalladsblad. Servera kycklinggrytan med pressad potatis eller ris och en god sallad.",
+        "cooking_time": "40 min",
+        "portions": {
+            "from": 4
+        },
+        "image": {
+            "id": 42080,
+            "name": "provencalsk kycklinggryta",
+            "url": "provencalsk-kycklinggryta.png",
+            "photographer": "Catarina König"
+        },
+        "video": null,
+        "profiles": [
+            {
+                "id": 4393,
+                "name": "Catarina König",
+                "url": "/kockar/catarina-konig",
+                "image": {
+                    "id": 42480,
+                    "name": "Catarina König KM2023",
+                    "url": "catarina-konig-km2023.png"
+                },
+                "published": true
+            }
+        ],
+        "source": {
+            "id": 7516,
+            "name": "Vardag med guldkant",
+            "url": "/vardag-med-guldkant",
+            "image": {
+                "id": 42072,
+                "name": "Vardag med guldkant omslag",
+                "url": "vardag-med-guldkant-omslag.png"
+            },
+            "source_type": "book",
+            "published": true
+        },
+        "categories": [
+            {
+                "id": 184,
+                "name": "Matlåda",
+                "type": "category"
+            },
+            {
+                "id": 328,
+                "name": "Kyckling",
+                "type": "category"
+            },
+            {
+                "id": 15,
+                "name": "Gryta",
+                "type": "category"
+            },
+            {
+                "id": 1,
+                "name": "Typ av maträtter"
+            }
+        ],
+        "rating_count": 310,
+        "rating_value": 4.4,
+        "computed_properties": {
+            "disablePortionsConverter": false,
+            "simple": false,
+            "vegetarian": false,
+            "fishOrShellfish": false,
+            "containsMeat": false,
+            "drinkTip": false,
+            "containsChicken": true
+        },
+        "first_publish_at": "2023-09-07T05:58:00.000Z",
+        "themes": [
+            {
+                "id": 3759,
+                "name": "Grytor",
+                "url": "/mat/typ-av-ratt/grytor"
+            },
+            {
+                "id": 1111,
+                "name": "Kyckling",
+                "url": "/mat/ingredienser/kyckling"
+            },
+            {
+                "id": 3761,
+                "name": "Kycklinggryta",
+                "url": "/mat/typ-av-ratt/grytor/kycklinggryta"
+            },
+            {
+                "id": 1790,
+                "name": "Matlåda",
+                "url": "/mat/specialkost/matlada"
+            }
+        ]
+    },
+    {
+        "id": 3482,
+        "name": "8 oemotståndliga tårtor till midsommar",
+        "description": "Ingen midsommar utan en somrig tårta! Traditionell jordgubbstårta, lyxig med maräng eller enkel i långpanna?",
+        "body": "Oavsett vilken av dessa ljuvliga tårtor du väljer, kommer du och din tårta att göra succé under midsommarfirandet.",
+        "url": "/7-oemotstandliga-tartor-till-midsommar",
+        "type": "article",
+        "image": {
+            "id": 31063,
+            "name": "Midsommartårta med rabarber och jordgubbar",
+            "url": "midsommartarta-med-rabarber-och-jordgubbar.jpg",
+            "photographer": "Charlotte Gawell"
+        },
+        "categories": [
+            {
+                "id": 153,
+                "name": "Midsommar",
+                "type": "category"
+            },
+            {
+                "id": 63,
+                "name": "Typ av bakat och sött",
+                "type": "category"
+            },
+            {
+                "id": 86,
+                "name": "Tårta",
+                "type": "category"
+            }
+        ],
+        "profiles": [],
+        "widgets": [
+            {
+                "id": 5382,
+                "type": "widget",
+                "name": "Midsommartårtor",
+                "widget_type": "List"
+            },
+            {
+                "id": 8048,
+                "type": "widget",
+                "name": "CIRKLAR: Midsommar",
+                "widget_type": "Carousel"
+            },
+            {
+                "id": 8394,
+                "type": "widget",
+                "name": "Nyhetsbrev bakning",
+                "widget_type": "Newsletter"
+            }
+        ],
+        "first_publish_at": "2015-06-15T08:45:00.000Z"
+    },
+    {
+        "id": 40569,
+        "name": "Ört- och vitlöksstekt lammstek med krossrostade potatisar och rotfrukter",
+        "type": "recipe",
+        "url": "/ort-och-vitloksstekt-lammstek-med-krossrostade-potatisar-och-rotfrukter",
+        "description": "Urbenad och ugnsstekt lammstek fylld med vitlök och örter. Till den saftiga lammsteken bjuds en mixad grön sås gjord på bland annat romansalladm basilika, kapris och dijonsenap samt lätt mosade och krispigt rostade rotfrukter. Perfekt bjudmiddag att servera till påsk!",
+        "ingredients": [
+            {
+                "name": "Ört- och vitlöksstekt lammstek",
+                "type": "header"
+            },
+            {
+                "id": 10223,
+                "name": "lammstek benfri",
+                "amount_info": {
+                    "from": 1.2,
+                    "approximate": true
+                },
+                "unit": "kg",
+                "type": "ingredient"
+            },
+            {
+                "id": 9747,
+                "name": "färsk timjan",
+                "preparation": "plockad och grovt hackad",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "kruka",
+                "type": "ingredient"
+            },
+            {
+                "id": 9742,
+                "name": "färsk rosmarin",
+                "preparation": "plockad och grovt hackad",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "kruka",
+                "type": "ingredient"
+            },
+            {
+                "id": 9741,
+                "name": "färsk persilja",
+                "preparation": "plockad och grovt hackat",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "kruka",
+                "type": "ingredient"
+            },
+            {
+                "id": 9650,
+                "name": "citron",
+                "plural": "citroner",
+                "preparation": "finrivet skal",
+                "amount_info": {
+                    "from": 2
+                },
+                "type": "ingredient"
+            },
+            {
+                "id": 10934,
+                "name": "vitlök",
+                "plural": "vitlökar",
+                "preparation": "finhackade",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "klyfta",
+                "type": "ingredient"
+            },
+            {
+                "id": 10407,
+                "name": "olivolja",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "type": "ingredient"
+            },
+            {
+                "id": 10793,
+                "name": "svartpeppar",
+                "preparation": "nymald",
+                "type": "ingredient"
+            },
+            {
+                "name": "Salladssås",
+                "type": "header"
+            },
+            {
+                "id": 10616,
+                "name": "romansallad",
+                "amount_info": {
+                    "from": 1
+                },
+                "type": "ingredient"
+            },
+            {
+                "id": 10080,
+                "name": "kapris",
+                "amount_info": {
+                    "from": 3
+                },
+                "unit": "msk",
+                "type": "ingredient"
+            },
+            {
+                "id": 9685,
+                "name": "dijonsenap",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "msk",
+                "type": "ingredient"
+            },
+            {
+                "id": 9724,
+                "name": "färsk basilika",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "kruka",
+                "type": "ingredient"
+            },
+            {
+                "id": 9741,
+                "name": "färsk persilja",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "kruka",
+                "type": "ingredient"
+            },
+            {
+                "id": 10934,
+                "name": "vitlök",
+                "plural": "vitlökar",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "klyfta",
+                "type": "ingredient"
+            },
+            {
+                "id": 10680,
+                "name": "sherryvinäger",
+                "amount_info": {
+                    "from": 3
+                },
+                "unit": "msk",
+                "type": "ingredient"
+            },
+            {
+                "id": 10407,
+                "name": "olivolja",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "type": "ingredient"
+            },
+            {
+                "name": "Krossrostade potatisar och rotfrukter",
+                "type": "header"
+            },
+            {
+                "id": 10505,
+                "name": "potatis",
+                "plural": "potatisar",
+                "preparation": "skrubbad och delad",
+                "amount_info": {
+                    "from": 600
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10366,
+                "name": "morot",
+                "plural": "morötter",
+                "preparation": "med skal och delade",
+                "amount_info": {
+                    "from": 200
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10436,
+                "name": "palsternacka",
+                "plural": "palsternackor",
+                "preparation": "med skal och delade",
+                "amount_info": {
+                    "from": 200
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10407,
+                "name": "olivolja",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10709,
+                "name": "smör",
+                "amount_info": {
+                    "from": 50
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "type": "ingredient"
+            }
+        ],
+        "instructions": "#Ört- och vitlöksstekt lammstek\nSätt ugnen på 175 grader.\nRulla ihop lammsteken och bind upp med stekgarn. Gnid in steken med salt, timjan, rosmarin, persilja, citron, vitlök och olivolja.\nStek i en panna och flytta sen över steken till en ugnssäker form.\nTillaga lammsteken i ugnen tills innertempen är 65 grader, ca 45 minuter. Låt lammsteken vila i aluminiumfolie minst 30 minuter timme före servering.\n#Salladssås\nLägg sallad, kapris, senap, basilika, persilja, vitlök och vinäger i mixer och nästan helt slätt.\nHäll i oljan i en tunn stråle och fortsätt mixa till en helt slät sås. Smaka av med salt.\n#Krossrostade potatisar och rotfrukter\nSätt ugnen på 250 grader.\nKoka potatis, morötter och palsternackor mjuka i saltat vatten.\nHäll av och häll ut dem på en plåt med bakplåtspapper. Mosa dem lätt med en gaffel.\nSkeda över olivolja och klicka ut smör. Salta med flingsalt och rosta i ugnen ca 15 minuter tills allt har fått fin färg och är lite krispiga.",
+        "cooking_time": "1 h 15 min",
+        "portions": {
+            "from": 4
+        },
+        "image": {
+            "id": 37939,
+            "name": "Ört- och vitlöksstekt lammstek med krossrostade potatisar och rotfrukter",
+            "url": "ort-och-vitloksstekt-lammstek-med-krossrostade-potatisar-och-rotfrukter.png",
+            "photographer": "TV4"
+        },
+        "video": {
+            "id": "20327697",
+            "type": "tv4play"
+        },
+        "profiles": [
+            {
+                "id": 6057,
+                "name": "Stefan Ekengren",
+                "url": "/stefan-ekengren",
+                "image": {
+                    "id": 37673,
+                    "name": "stefan ekengren profilbild ny",
+                    "url": "stefan-ekengren-profilbild-ny.png"
+                },
+                "published": true
+            }
+        ],
+        "source": {
+            "id": 4436,
+            "name": "Kökets middag",
+            "url": "/tv-program/kokets-middag",
+            "image": {
+                "id": 19717,
+                "name": "Kökets middag",
+                "url": "kokets-middag.jpg"
+            },
+            "logo_image": null,
+            "source_type": "tv",
+            "published": true
+        },
+        "categories": [
+            {
+                "id": 155,
+                "name": "Påsk",
+                "type": "category"
+            },
+            {
+                "id": 1,
+                "name": "Typ av maträtter",
+                "type": "category"
+            },
+            {
+                "id": 350,
+                "name": "Lammstek",
+                "type": "category"
+            },
+            {
+                "id": 347,
+                "name": "Lamm",
+                "type": "category"
+            },
+            {
+                "id": 160,
+                "name": "Huvudrätt",
+                "type": "category"
+            }
+        ],
+        "themes": [
+            {
+                "id": 1799,
+                "name": "Lamm",
+                "url": "/mat/ingredienser/lamm"
+            },
+            {
+                "id": 589,
+                "name": "Lammstek",
+                "url": "/mat/ingredienser/lamm/lammstek"
+            },
+            {
+                "id": 757,
+                "name": "Påskmat",
+                "url": "/mat/hogtid/paskmat"
+            }
+        ],
+        "rating_count": 28,
+        "rating_value": 4.4,
+        "computed_properties": {
+            "disablePortionsConverter": false,
+            "simple": false,
+            "fishOrShellfish": false,
+            "containsMeat": true,
+            "vegetarian": false,
+            "drinkTip": false,
+            "containsChicken": false
+        },
+        "first_publish_at": "2022-04-08T08:22:00.000Z"
+    },
+    {
+        "id": 44409,
+        "name": "Italiensk paj med soltorkade tomater och ricotta",
+        "type": "recipe",
+        "url": "/italiensk-paj-med-soltorkade-tomater-och-ricotta",
+        "description": "Vegetarisk paj med baljväxtfärs, soltorkade tomater och fetaost - toppas med krämig ricotta, oliver och färska tomater! En perfekt paj till buffé, picknick eller som vardagsmiddag.",
+        "ingredients": [
+            {
+                "name": "Pajdeg",
+                "type": "header"
+            },
+            {
+                "id": 9694,
+                "name": "dinkelmjöl",
+                "amount_info": {
+                    "from": 4
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "tsk",
+                "type": "ingredient"
+            },
+            {
+                "id": 10407,
+                "name": "olivolja",
+                "amount_info": {
+                    "from": 0.75
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10896,
+                "name": "vatten",
+                "preparation": "kallt",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "name": "Fyllning",
+                "type": "header"
+            },
+            {
+                "id": 68361,
+                "name": "Anamma Baljväxtfärs",
+                "amount_info": {
+                    "from": 300
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10598,
+                "name": "rödlök",
+                "plural": "rödlökar",
+                "comment": "liten",
+                "amount_info": {
+                    "from": 1
+                },
+                "type": "ingredient"
+            },
+            {
+                "id": 10934,
+                "name": "vitlök",
+                "plural": "vitlökar",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "klyfta",
+                "type": "ingredient"
+            },
+            {
+                "id": 10407,
+                "name": "olivolja",
+                "preparation": "till stekning",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "type": "ingredient"
+            },
+            {
+                "id": 10793,
+                "name": "svartpeppar",
+                "type": "ingredient"
+            },
+            {
+                "id": 10732,
+                "name": "soltorkade tomater",
+                "preparation": "hackade",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 66842,
+                "name": "Grana Padano",
+                "preparation": "riven",
+                "amount_info": {
+                    "from": 150
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 9778,
+                "name": "fetaost",
+                "plural": "fetaostar",
+                "amount_info": {
+                    "from": 150
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 9479,
+                "name": "ägg",
+                "amount_info": {
+                    "from": 4
+                },
+                "type": "ingredient"
+            },
+            {
+                "id": 10896,
+                "name": "vatten",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "type": "ingredient"
+            },
+            {
+                "id": 10793,
+                "name": "svartpeppar",
+                "preparation": "nymalen",
+                "type": "ingredient"
+            },
+            {
+                "name": "Topping",
+                "type": "header"
+            },
+            {
+                "id": 10131,
+                "name": "körsbärstomater",
+                "amount_info": {
+                    "from": 250
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10559,
+                "name": "ricotta",
+                "amount_info": {
+                    "from": 250
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10407,
+                "name": "olivolja",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "msk",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "type": "ingredient"
+            },
+            {
+                "id": 10787,
+                "name": "svarta oliver",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 9724,
+                "name": "färsk basilika",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "kruka",
+                "type": "ingredient"
+            }
+        ],
+        "instructions": "Sätt ugnen på 200 grader.\n\nBlanda samman ingredienserna till pajdegen. Plasta in degen och låt den vila i kylen ca 30 minuter.\n\nKavla ut pajdegen eller tryck ut den direkt i en pajform, ca 23 cm i diameter. Nagga med en gaffel och förgrädda pajskalet i ugnen i 10 minuter. \n\nFinhacka rödlöken och vitlöken.\n\nStek färsen och rödlöken i lite olja tills det börjar få en fin yta. Tillsätt vitlöken och låt fräsa med några minuter. Smaka upp med salt och svartpeppar och häll ner färsen i pajformen.\n\nHäll över soltorkade tomater och smula över fetosten. Fördela allt jämnt i formen.\n\nVispa samman ägg med vatten. Krydda med salt och peppar. Tillsätt riven ost. Häll ner äggstanningen i pajformen över färsen.\n\nGrädda i ugnen i ca 30 minuter, eller tills pajen fått fin färg. Låt svalna något.\n\n#Garnering\nBlanda ricottan med olivolja. Smaka av med salt och peppar. \n\nDela tomaterna i halvor eller klyftor.\n\nToppa pajen med ricotta, tomater, oliver och några blad färsk basilika.",
+        "cooking_time": "1 h",
+        "portions": {
+            "from": 4,
+            "to": 6
+        },
+        "image": {
+            "id": 43834,
+            "name": "Anamma Italiensk paj med soltorkade tomater och ricotta",
+            "url": "anamma-italiensk-paj-med-soltorkade-tomater-och-ricotta.png",
+            "photographer": "Köket.se"
+        },
+        "video": null,
+        "profiles": [],
+        "source": {
+            "id": 7706,
+            "name": "Anamma",
+            "url": "/anamma",
+            "image": {
+                "id": 43628,
+                "name": "Anamma header",
+                "url": "anamma-header.png"
+            },
+            "sponsored": true,
+            "logo_image": {
+                "id": 43836,
+                "name": "anamma logo",
+                "url": "anamma-logo.svg"
+            },
+            "logo_format": "square",
+            "features": {
+                "hide_from_search": false
+            },
+            "published": true
+        },
+        "categories": [
+            {
+                "id": 128,
+                "name": "Italien",
+                "type": "category"
+            },
+            {
+                "id": 182,
+                "name": "Vegetariskt",
+                "type": "category"
+            },
+            {
+                "id": 169,
+                "name": "Buffé",
+                "type": "category"
+            },
+            {
+                "id": 28,
+                "name": "Matpaj",
+                "type": "category"
+            },
+            {
+                "id": 1,
+                "name": "Typ av maträtter"
+            },
+            {
+                "id": 315,
+                "name": "Tomat",
+                "type": "category"
+            },
+            {
+                "id": 295,
+                "name": "Grönsaker"
+            },
+            {
+                "id": 167,
+                "name": "Vardag"
+            },
+            {
+                "id": 170,
+                "name": "Picknick"
+            },
+            {
+                "id": 395,
+                "name": "Tofu"
+            },
+            {
+                "id": 396,
+                "name": "Köttsubstitut"
+            }
+        ],
+        "themes": [
+            {
+                "id": 690,
+                "name": "Buffémat",
+                "url": "/mat/typ-av-maltid/buffe"
+            },
+            {
+                "id": 1797,
+                "name": "Italiensk mat",
+                "url": "/mat/varldens-kok/italiensk-mat"
+            },
+            {
+                "id": 1057,
+                "name": "Paj",
+                "url": "/mat/typ-av-ratt/paj"
+            },
+            {
+                "id": 1967,
+                "name": "Picknick",
+                "url": "/mat/typ-av-maltid/picknick"
+            },
+            {
+                "id": 3997,
+                "name": "Tofu",
+                "url": "/mat/ingredienser/tofu"
+            },
+            {
+                "id": 3854,
+                "name": "Vegetariskt",
+                "url": "/mat/specialkost/vegetariskt"
+            }
+        ],
+        "rating_count": 4,
+        "rating_value": 4.8,
+        "sponsored": true,
+        "sponsored_type": "external_advertiser",
+        "embedded_promotion_top1": {
+            "title": "Upptäck Anamma Baljväxtfärs!",
+            "text": "En formbar och grovmalen färs på svenskodlade baljväxter.",
+            "image": {
+                "id": 43629,
+                "name": "Anamma baljväxtfärs produkt",
+                "url": "anamma-baljvaxtfars-produkt.png"
+            },
+            "url": "https://www.anamma.eu/produkt/baljvaxtfars/",
+            "show": true,
+            "theme": "medium",
+            "sponsored_theme": null
+        },
+        "embedded_promotion_bottom1": {
+            "title": "Fler tips!",
+            "text": "Fler tips och goda recept från Anamma!",
+            "image": {
+                "id": 43628,
+                "name": "Anamma header",
+                "url": "anamma-header.png"
+            },
+            "url": "/anamma",
+            "show": true,
+            "theme": null,
+            "sponsored_theme": null
+        },
+        "features": {
+            "hide_from_search": false
+        },
+        "computed_properties": {
+            "disablePortionsConverter": true,
+            "simple": false,
+            "fishOrShellfish": false,
+            "containsMeat": false,
+            "vegetarian": true,
+            "drinkTip": false,
+            "containsChicken": false
+        },
+        "first_publish_at": "2024-04-11T12:39:00.000Z"
+    },
+    {
+        "name": "Pancettapasta med rosésallad",
+        "url": "/mitt-kok/tommy-myllymaki/pancettapasta-med-rosesallad",
+        "description": "Pasta med krispig pancetta och rosésallad. Vitlök, honung, timjan och balsamico sätter fin smak på rätten.",
+        "sponsored": false,
+        "sponsored_top_text": null,
+        "portions": {
+            "from": 4
+        },
+        "cooking_time": "20 min",
+        "image": {
+            "id": 2411,
+            "name": "Pancettapasta med rosésallad",
+            "url": "pancettapasta-med-rosesallad.jpg",
+            "photographer": "tv4"
+        },
+        "video": {
+            "id": "20284505",
+            "type": "tv4play"
+        },
+        "source": {
+            "id": 1217,
+            "name": "Mitt kök",
+            "url": "/tv-program/mitt-kok",
+            "image": null,
+            "logo_image": {
+                "id": 19324,
+                "name": "Mitt kök logo",
+                "url": "mitt-kok-logo.png"
+            },
+            "published": true
+        },
+        "type": "recipe",
+        "id": 1499,
+        "first_publish_at": "2014-05-06T05:00:00.000Z",
+        "information": null,
+        "ingredients": [
+            {
+                "unit": "g",
+                "amount_info": {
+                    "from": 400
+                },
+                "type": "ingredient",
+                "id": 10456,
+                "name": "pasta"
+            },
+            {
+                "unit": "",
+                "amount_info": {
+                    "from": 1
+                },
+                "type": "ingredient",
+                "id": 10625,
+                "name": "rosésallad"
+            },
+            {
+                "unit": "g",
+                "amount_info": {
+                    "from": 200
+                },
+                "type": "ingredient",
+                "id": 10437,
+                "name": "pancetta"
+            },
+            {
+                "unit": "msk",
+                "amount_info": {
+                    "from": 4,
+                    "to": 5
+                },
+                "type": "ingredient",
+                "id": 9540,
+                "name": "balsamvinäger"
+            },
+            {
+                "unit": "klyfta",
+                "amount_info": {
+                    "from": 2
+                },
+                "type": "ingredient",
+                "id": 10934,
+                "name": "vitlök",
+                "plural": "vitlökar"
+            },
+            {
+                "unit": "tsk",
+                "amount_info": {
+                    "from": 2
+                },
+                "type": "ingredient",
+                "id": 9997,
+                "name": "honung"
+            },
+            {
+                "unit": "kvist",
+                "name": "timjan",
+                "amount_info": {
+                    "from": 5,
+                    "to": 6
+                },
+                "type": "ingredient"
+            },
+            {
+                "unit": "",
+                "type": "ingredient",
+                "id": 10407,
+                "name": "olivolja"
+            },
+            {
+                "unit": "",
+                "type": "ingredient",
+                "id": 10450,
+                "name": "parmesanost",
+                "plural": "parmesanostar"
+            }
+        ],
+        "profiles": [
+            {
+                "id": 1162,
+                "name": "Tommy Myllymäki",
+                "url": "/kockar/tommy-myllymaki",
+                "image": {
+                    "id": 45639,
+                    "name": "Tommy Myllymäki 2024 KM",
+                    "url": "tommy-myllymaki-2024-km.png",
+                    "photographer": "TV4"
+                },
+                "published": true
+            },
+            {
+                "id": 739,
+                "name": "Jennie Walldén",
+                "url": "/kockar/jennie-wallden",
+                "image": {
+                    "id": 43654,
+                    "name": "Jennie Walldén KM",
+                    "url": "jennie-wallden-km.png",
+                    "photographer": "TV4"
+                },
+                "published": true
+            }
+        ],
+        "rating_count": 1,
+        "rating_value": 5,
+        "computed_properties": {
+            "disablePortionsConverter": false,
+            "simple": false,
+            "vegetarian": false,
+            "fishOrShellfish": false,
+            "containsMeat": false,
+            "drinkTip": false,
+            "containsChicken": false
+        },
+        "instructions": "Börja med att skära ner pancettan i mindre tärningar. Ta rosésalladen och dela på mitten, skär bort roten på salladen och skär ner den i bitar, försök att inte skära salladen i för små bitar då den drar ihop sig i stekpannan.\nStek pancettan krispig i en het panna tillsammans med lite olja.\nKoka pastan i välsaltat vatten.\nKrossa två vitlöksklyftor och lägg ner i stekpannan. Tillsätt rosésalladen och fint hackad timjan.\nLåt steka tillsammans och sänk sedan värmen på stekpannan. Slå på balsamivinäger och honung och låt sjuda ihop medan pastan kokar klart. Smaka av med salt och peppar.\nHäll av pastan och vänd sedan ner i stekpannan. Toppa med riven parmesanost och servera varm.",
+        "categories": [
+            {
+                "id": 167,
+                "name": "Vardag",
+                "type": "category"
+            },
+            {
+                "id": 160,
+                "name": "Huvudrätt",
+                "type": "category"
+            },
+            {
+                "id": 128,
+                "name": "Italien",
+                "type": "category"
+            },
+            {
+                "id": 1,
+                "name": "Typ av maträtter",
+                "type": "category"
+            },
+            {
+                "id": 377,
+                "name": "Pasta",
+                "type": "category"
+            },
+            {
+                "id": 186,
+                "name": "Snabbt",
+                "type": "category"
+            }
+        ],
+        "themes": [
+            {
+                "id": 1797,
+                "name": "Italiensk mat",
+                "url": "/mat/varldens-kok/italiensk-mat"
+            },
+            {
+                "id": 3871,
+                "name": "Pasta",
+                "url": "/mat/ingredienser/pasta"
+            },
+            {
+                "id": 3857,
+                "name": "Snabbt",
+                "url": "/mat/specialkost/snabbt"
+            },
+            {
+                "id": 3851,
+                "name": "Vardagsmiddag",
+                "url": "/mat/typ-av-maltid/vardagsmiddag"
+            }
+        ]
+    },
+    {
+        "profiles": [
+            {
+                "id": 1129,
+                "name": "Köket.se",
+                "url": "/koket-se",
+                "image": {
+                    "id": 30506,
+                    "name": "Köket .se kocksida",
+                    "url": "koket-se-kocksida.jpg"
+                },
+                "published": true
+            }
+        ],
+        "name": "Sockerkaka, grundrecept",
+        "url": "/sockerkaka-grundrecept",
+        "description": "Sockerkaka är det enklaste och det allra, allra godaste till kaffet. Vaniljsockret kan ersättas med rivet citronskal.  \n\n**Tips:** Vill du göra en tigerkaka tar du bort en tredjedel av smeten. Häll de första två tredjedelarna i formen. Smaksätt den sista tredjedelen med 1 msk kakaopulver. Rör ner den med en gaffel så blir kakan vackert strimmig.",
+        "sponsored": false,
+        "sponsored_top_text": null,
+        "portions": {
+            "from": 10
+        },
+        "cooking_time": "ca 40 m",
+        "image": {
+            "id": 25028,
+            "name": "Sockerkaka",
+            "url": "sockerkaka-2.jpg",
+            "photographer": "TV4"
+        },
+        "video": null,
+        "type": "recipe",
+        "id": 7969,
+        "first_publish_at": "2010-11-18T01:02:00.000Z",
+        "rating_value": 4.1,
+        "rating_count": 2283,
+        "ingredients": [
+            {
+                "type": "ingredient",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "",
+                "name": "ägg",
+                "id": 9479
+            },
+            {
+                "type": "ingredient",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "dl",
+                "name": "strösocker",
+                "id": 10767
+            },
+            {
+                "type": "ingredient",
+                "amount_info": {
+                    "from": 3
+                },
+                "unit": "dl",
+                "name": "vetemjöl",
+                "id": 10908
+            },
+            {
+                "type": "ingredient",
+                "amount_info": {
+                    "from": 1.5
+                },
+                "unit": "tsk",
+                "name": "bakpulver",
+                "id": 9539
+            },
+            {
+                "type": "ingredient",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "tsk",
+                "name": "vaniljsocker",
+                "id": 10887
+            },
+            {
+                "type": "ingredient",
+                "amount_info": {
+                    "from": 50
+                },
+                "unit": "g",
+                "name": "smör",
+                "id": 10709
+            },
+            {
+                "type": "ingredient",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "dl",
+                "name": "mjölk",
+                "id": 10347
+            },
+            {
+                "type": "header",
+                "name": "Till formen:"
+            },
+            {
+                "type": "other",
+                "name": "matfett och ströbröd"
+            }
+        ],
+        "computed_properties": {
+            "disablePortionsConverter": false,
+            "simple": false,
+            "vegetarian": false,
+            "fishOrShellfish": false,
+            "containsMeat": false,
+            "drinkTip": false,
+            "containsChicken": false
+        },
+        "instructions": "Sätt ugnen på 175 grader. Smörj och bröa sockerkaksformen. Vispa ägg och strösocker vitt och pösigt. Blanda samman mjöl, bakpulver och vaniljsocker.\nSmält smöret och häll i mjölken, så att allt blir ljummet. Häll mjölkblandningen i sockerblandningen och rör om. Vispa ner mjölblandningen i smeten och häll den i formen.\nGrädda din sockerkaka i 175 graders ugn i 28-30 minuter. Känn med en sticka om den är klar. Är stickan helt torr är sockerkakan klar.",
+        "categories": [
+            {
+                "id": 148,
+                "name": "Barnkalas",
+                "type": "category"
+            },
+            {
+                "id": 63,
+                "name": "Typ av bakat och sött",
+                "type": "category"
+            },
+            {
+                "id": 186,
+                "name": "Snabbt",
+                "type": "category"
+            },
+            {
+                "id": 73,
+                "name": "Kondisbit",
+                "type": "category"
+            },
+            {
+                "id": 77,
+                "name": "Mjuk kaka",
+                "type": "category"
+            },
+            {
+                "id": 162,
+                "name": "Fika",
+                "type": "category"
+            }
+        ],
+        "themes": [
+            {
+                "id": 3552,
+                "name": "Bakverk",
+                "url": "/bakat-och-gott/bakverk"
+            },
+            {
+                "id": 4134,
+                "name": "Fika",
+                "url": "/bakat-och-gott/tema/fika"
+            },
+            {
+                "id": 3498,
+                "name": "Kondisbitar",
+                "url": "/bakat-och-gott/bakverk/kondisbitar"
+            },
+            {
+                "id": 4362,
+                "name": "Mjuka kakor",
+                "url": "/bakat-och-gott/bakverk/mjuka-kakor"
+            },
+            {
+                "id": 696,
+                "name": "Sockerkaka",
+                "url": "/bakat-och-gott/bakverk/mjuka-kakor/sockerkaka"
+            }
+        ]
+    },
+    {
+        "id": 4988,
+        "name": "Snabbfixa påsken på 20 minuter!",
+        "description": "Nej, man behöver inte svettas i köket i timmar innan gästerna kommer! Mycket kan man förbereda dagar i förväg. Här är 8 tips hur du fixar påsken på 20 minuter!",
+        "body": "Mycket mat kan man köpa färdig och mycket kring dukningen kan man också göra i förväg. För det är ändå till slut sällskapet som gör påsken. Att få njuta av varandras sällskap över klassiker som sill, paj, ägg och gravad lax. \n\nMen visst finns det lite små tips och trix hur du snabbt får till en välkomnande middag! \n\n## 1. Snacks och tilltugg\n![Gurksnittar med sill >](https://img.koket.se/standard-large/gurksnittar-med-mandarinpepparsill.jpg)Snabba och enkla snittar är perfekt att bjuda på när gästerna kommer eller duka fram på påskbuffébordet! Servera sill eller gubbröra på skivor av gurka, på små bakade potatisar eller en bit fröknäcke.\n[7 snabba snittar till påsk! ::button_external](https://www.koket.se/7-snabba-snittar-till-julfest-och-mingel)\n\n## 2. Supergod förrätt på 5 minuter \n\n![Förrätt på 5 minuter](https://img.koket.se/standard-large/forratt-pa-5-minuter-chips-med-rom-citroncreme-och-dill-ny-2021.png.jpg)\nEnklare än så här blir det inte! Det här är en förrätt som alla älskar - för vem älskar inte chips med en lyxig dipp? Servera som en enkel förrätt eller på ett stort fat som tilltugg till ett glas bubbel! \n\n[Se recept ::button_external](https://www.koket.se/forratt-pa-5-minuter-chips-med-rom-citroncreme-och-dill)\n\n## 3. Duka upp en sillbuffé\n![Sillbuffé](https://img.koket.se/standard-large/abba-snabbfixa-pasken-sillbuffe.png.jpg)\nMed färdig sill från Abba går det blixtsnabbt att duka upp en god och härlig sillbuffé. Duka fram sillburkarna tillsammans med lite rostat kavringssmul, brynt smör och färsk dill för en extra festlig och lyxig känsla! Prova någon av de senaste sillsorterna från Abba - Brantevik, Chili Aioli och Västkust Majo.\n\n## 4. Eller gör egen sill på 5 minuter!\n![Krämig sill med västerbottensost <](https://img.koket.se/standard-large/abba-vasterbottenssill-ny-2021.png.jpg)\nAtt göra egen inlagd sill är både kul och enkelt - och kan förberedas flera dagar i förväg. Med Abba 5-minuterssill kan du både göra sill i klar lag eller en krämig variant. [Testa det här populära receptet på krämig sill med västerbottensost!](https://www.koket.se/kramig-sill-med-vasterbottenost)\n\n---\n**Tips! Gör påsken extra smidig:** [Köp hem påskens rätter via Matspar.se ::button_external](https://www.matspar.se/varumarke/abba?utm_source=Koket_nyhetsbrev&utm_medium=Abbas&utm_campaign=Abba_pask&utm_content=CTA)\n\n---\n\n## 5. Det dukade bordet\n\n> Små detaljer gör det dukade bordet till en succé!\n\n![Påskdukning](https://img.koket.se/standard-large/abba-pask-narbilder.jpg)\n\n* Håll ihop med en färgtema, gärna på blommor, servetter och ljus, det gör att det ser genomtänkt och stilsäkert ut.\n* Ha gärna udda glas och porslin, det ger en personlig touch till dukningen.  \n* Färska blommor som hör till säsongen som tulpaner och videung.   \n* Dekorera med påskägg, det är egentligen allt som behövs. Låt alla få ett eget litet ägg med namn på som välkomstpresent på tallriken, något som är enkelt att förbereda några dagar innan, men som känns välkomnande för gästen.\n\n## 6. Servera i fina glas\n[![ <](https://img.koket.se/standard-large/abba-asiatisk-sill-i-glas-neutral.png.jpg)](https://www.koket.se/asiatisk-sill-i-glas)\nEtt enkelt och festligt sätt att servera sillen på är i vackra små glas eller direkt på små skedar. Bjud på som välkomstsnitt eller som en del av påskbuffén - det blir en festlig detalj som uppskattas av gästerna. [Testa det här receptet på asiatisk sill i glas!](https://www.koket.se/asiatisk-sill-i-glas)\n\n## 7. Gör janssons i miniformat\n![Janssons frestelse](https://img.koket.se/standard-large/abba-minijanssons-artikel.png.jpg)\nGör Janssons i småformar istället! Det är enkelt att förbereda och att få plats med i kyl och frys, går snabbare att laga i ugnen och passar perfekt om ni inte blir så många.\n\n[Se recept ::button_external](https://www.koket.se/janssons-frestelse-i-miniformat)\n## 8. Paj är perfekt att förbereda\n![ >](https://img.koket.se/standard-large/ansjovispaj-med-ost-och-primorer.jpg)\nDet är alltid kul att överraska gästerna med ett nytt recept! En paj räcker också till många och kan också förberedas dagen innan festen. Prova denna fantastiskt goda och vackra [anjovispaj med ost & primörer!](/ansjovispaj-med-ost-och-primorer) \n\n### [Mer påskinspiration från Abba ::button_external](https://www.abba.se/inspiration/pask/)\n",
+        "url": "/snabbfixa-pasken-pa-20-minuter",
+        "type": "article",
+        "image": {
+            "id": 22926,
+            "name": "Ansjovispaj med ost och primörer",
+            "url": "ansjovispaj-med-ost-och-primorer.jpg",
+            "photographer": "köket.se"
+        },
+        "categories": [
+            {
+                "id": 155,
+                "name": "Påsk",
+                "type": "category"
+            },
+            {
+                "id": 1,
+                "name": "Typ av maträtter",
+                "type": "category"
+            },
+            {
+                "id": 164,
+                "name": "Snittar/tilltugg",
+                "type": "category"
+            },
+            {
+                "id": 168,
+                "name": "Fest",
+                "type": "category"
+            },
+            {
+                "id": 169,
+                "name": "Buffé",
+                "type": "category"
+            },
+            {
+                "id": 248,
+                "name": "Lax",
+                "type": "category"
+            },
+            {
+                "id": 244,
+                "name": "Fisk",
+                "type": "category"
+            }
+        ],
+        "profiles": [],
+        "source": {
+            "id": 4482,
+            "name": "Abba",
+            "url": "/abba",
+            "image": {
+                "id": 34806,
+                "name": "Abba ny header 2021",
+                "url": "abba-ny-header-2021.png"
+            },
+            "sponsored": true,
+            "logo_image": {
+                "id": 33198,
+                "name": "abba_logo2_svg",
+                "url": "abba_logo2_svg.svg"
+            },
+            "logo_format": "wide",
+            "published": true
+        },
+        "widgets": [
+            {
+                "id": 6924,
+                "type": "widget",
+                "name": "Abba påskwidget fisksida",
+                "widget_type": "List"
+            }
+        ],
+        "sponsored": true,
+        "sponsored_type": "external_advertiser",
+        "first_publish_at": "2017-04-07T12:48:00.000Z"
+    },
+    {
+        "id": 13058,
+        "name": "Leilas pizzadeg",
+        "type": "recipe",
+        "url": "/leilas-blogg/leila-lindholm/leilas-pizzadeg",
+        "description": "Leila Lindholms recept på fin och smidig pizzadeg är grunden till en riktigt god pizza.\n\n[Se & gör: receptfilm på hur du bakar pizzadeg!](/se-och-gor/caroline-ahlqvist/hur-gor-man-pizzadeg-)",
+        "ingredients": [
+            {
+                "id": 10027,
+                "name": "jäst",
+                "amount_info": {
+                    "from": 50
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10767,
+                "name": "strösocker",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "tsk",
+                "type": "ingredient"
+            },
+            {
+                "id": 9808,
+                "name": "flingsalt",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "tsk",
+                "type": "ingredient"
+            },
+            {
+                "id": 10407,
+                "name": "olivolja",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10896,
+                "name": "vatten",
+                "preparation": "ljummet",
+                "amount_info": {
+                    "from": 3
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10907,
+                "name": "vetemjöl special",
+                "amount_info": {
+                    "from": 7
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            }
+        ],
+        "instructions": "Blanda jäst, socker, salt, olja och fingervarmt vatten (37 grader) i en degbunke.\nRör i mjöl, lite i taget, tills du får en fast och elastisk deg. Spara resten av mjölet till utbakning.\nJäs pizzadegen i bunken under bakduk i cirka 25 minuter.\nDela degen på 4 bitar och baka ut dem med kavel på mjölat bakbord.\nToppa pizzan efter tycke och smak, grädda i 200 grader varmluft tills den fått fin färg.",
+        "cooking_time": "45 m",
+        "portions": {
+            "from": 4,
+            "type": "pizzor"
+        },
+        "image": {
+            "id": 11457,
+            "name": "Leilas pizzadeg",
+            "url": "leilas-pizzadeg.jpg",
+            "photographer": "Fredrik Sandin Carlson"
+        },
+        "video": null,
+        "profiles": [
+            {
+                "id": 1083,
+                "name": "Leila Lindholm",
+                "url": "/kockar/leila-lindholm",
+                "image": {
+                    "id": 17874,
+                    "name": "Leila Lindholm",
+                    "url": "leila-lindholm-2.jpg",
+                    "photographer": "Martin Pettersson"
+                },
+                "published": true
+            }
+        ],
+        "source": {
+            "id": 3173,
+            "name": "Leilas blogg",
+            "url": "/leilas_blogg",
+            "image": null,
+            "features": {
+                "display_as_text_only": true
+            },
+            "published": true
+        },
+        "categories": [
+            {
+                "id": 128,
+                "name": "Italien",
+                "type": "category"
+            },
+            {
+                "id": 1,
+                "name": "Typ av maträtter",
+                "type": "category"
+            },
+            {
+                "id": 31,
+                "name": "Pizza",
+                "type": "category"
+            }
+        ],
+        "themes": [
+            {
+                "id": 1797,
+                "name": "Italiensk mat",
+                "url": "/mat/varldens-kok/italiensk-mat"
+            },
+            {
+                "id": 1220,
+                "name": "Pizza",
+                "url": "/mat/typ-av-ratt/pizza"
+            }
+        ],
+        "rating_count": 5149,
+        "rating_value": 3.7,
+        "sponsored": false,
+        "sponsored_top_text": null,
+        "computed_properties": {
+            "disablePortionsConverter": false,
+            "simple": false,
+            "fishOrShellfish": false,
+            "containsMeat": false,
+            "vegetarian": false,
+            "drinkTip": false,
+            "containsChicken": false
+        },
+        "first_publish_at": "2009-02-16T15:12:00.000Z"
+    },
+    {
+        "id": 35405,
+        "name": "Saftig kärleksmums i långpanna",
+        "type": "recipe",
+        "url": "/saftig-karleksmums-i-langpanna",
+        "description": "\"Kärleksmums, snoddas, mockarutor, kärt barn har många namn och det finns inget tråkigare än torra kärleksmums eller kärleksmums som vid första anblick är jättesaftiga men blir riktiga torrbollar så fort de svalnat. Så jag tänkte dela med mig av mina bästa tips för att alltid lyckas med saftiga, höga och fina kärleksmums!\" /Camilla Hamid",
+        "ingredients": [
+            {
+                "name": "Sockerkakan",
+                "type": "header"
+            },
+            {
+                "id": 10709,
+                "name": "smör",
+                "amount_info": {
+                    "from": 250
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10347,
+                "name": "mjölk",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 9479,
+                "name": "ägg",
+                "comment": "stora",
+                "amount_info": {
+                    "from": 5
+                },
+                "type": "ingredient"
+            },
+            {
+                "id": 10767,
+                "name": "strösocker",
+                "amount_info": {
+                    "from": 4
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10887,
+                "name": "vaniljsocker",
+                "amount_info": {
+                    "from": 1.5
+                },
+                "unit": "msk",
+                "type": "ingredient"
+            },
+            {
+                "id": 10042,
+                "name": "kakao",
+                "amount_info": {
+                    "from": 1.5
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 9539,
+                "name": "bakpulver",
+                "amount_info": {
+                    "from": 3
+                },
+                "unit": "tsk",
+                "type": "ingredient"
+            },
+            {
+                "id": 10908,
+                "name": "vetemjöl",
+                "amount_info": {
+                    "from": 6
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "name": "Glasyr",
+                "type": "header"
+            },
+            {
+                "id": 10709,
+                "name": "smör",
+                "amount_info": {
+                    "from": 150
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10039,
+                "name": "kaffe",
+                "preparation": "starkt",
+                "amount_info": {
+                    "from": 1.5
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10042,
+                "name": "kakao",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10887,
+                "name": "vaniljsocker",
+                "amount_info": {
+                    "from": 1.5
+                },
+                "unit": "msk",
+                "type": "ingredient"
+            },
+            {
+                "id": 9809,
+                "name": "florsocker",
+                "amount_info": {
+                    "from": 5
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10574,
+                "name": "riven kokos",
+                "comment": "till garnering",
+                "type": "ingredient"
+            }
+        ],
+        "instructions": "#Sockerkakan\nSätt ugnen på 175 grader (över- och undervärme).\nTäck din form med bakplåtspapper, långpanna ca 30 x 40 cm.\nSmält smöret i en kastrull. Häll i mjölken och ställ sedan kastrullen åt sidan för att svalna.\nVispa ägg och strösocker riktigt vitt och pösigt på medelhastighet i en bunke.\nBlanda vaniljsocker, kakao, bakpulver och mjöl i en annan bunke och sikta sedan ner det i äggvispen.\nVänd försiktigt samman alltihopa till en jämn smet med hjälp av en slickepott.\nTillsätt även smörmjölken och fortsätt vända tills du har en jämn och fin smet utan klumpar.\nHäll upp smeten i formen och grädda den i mitten av ugnen i ca 20 minuter.\n#Glasyr\nSmält smöret och låt svalna.\nBlanda sedan ihop smöret med resten av ingredienserna till en jämn och bredbar smet.\nGör en massa små hål i kakan och bred ut glasyren över den.\nGarnera med kokosflingor.\nLåt glasyren stelna lite innan du skär upp kakan i bitar och serverar.\nPlasta in kakan eller förvara i lufttät burk innan du ställer den i kylskåpet så håller den sig saftig och fräsch riktigt länge!",
+        "cooking_time": "40 m",
+        "portions": {
+            "type": "långpanna",
+            "from": 1
+        },
+        "image": {
+            "id": 35707,
+            "name": "Saftiga kärleksmums i långpanna NY",
+            "url": "saftiga-karleksmums-i-langpanna-ny.png",
+            "photographer": "Camilla Hamid"
+        },
+        "video": null,
+        "profiles": [
+            {
+                "id": 4873,
+                "name": "Camilla Hamid",
+                "url": "/kockar/camilla-hamid",
+                "image": {
+                    "id": 43511,
+                    "name": "Camilla H porträtt KH2024",
+                    "url": "camilla-h-portratt-kh2024.png",
+                    "photographer": "TV4"
+                },
+                "published": true
+            }
+        ],
+        "source": {
+            "id": 5229,
+            "name": "My Kitchen Stories",
+            "url": "/my-kitchen-stories",
+            "features": {
+                "display_as_text_only": true
+            },
+            "published": true
+        },
+        "categories": [
+            {
+                "id": 73,
+                "name": "Kondisbit",
+                "type": "category"
+            },
+            {
+                "id": 77,
+                "name": "Mjuk kaka",
+                "type": "category"
+            },
+            {
+                "id": 63,
+                "name": "Typ av bakat och sött",
+                "type": "category"
+            }
+        ],
+        "themes": [
+            {
+                "id": 3552,
+                "name": "Bakverk",
+                "url": "/bakat-och-gott/bakverk"
+            },
+            {
+                "id": 3498,
+                "name": "Kondisbitar",
+                "url": "/bakat-och-gott/bakverk/kondisbitar"
+            },
+            {
+                "id": 4362,
+                "name": "Mjuka kakor",
+                "url": "/bakat-och-gott/bakverk/mjuka-kakor"
+            },
+            {
+                "id": 696,
+                "name": "Sockerkaka",
+                "url": "/bakat-och-gott/bakverk/mjuka-kakor/sockerkaka"
+            }
+        ],
+        "rating_count": 1505,
+        "rating_value": 4,
+        "computed_properties": {
+            "disablePortionsConverter": false,
+            "simple": false,
+            "fishOrShellfish": false,
+            "containsMeat": false,
+            "vegetarian": false,
+            "drinkTip": false,
+            "containsChicken": false
+        },
+        "first_publish_at": "2019-10-16T13:00:00.000Z"
+    },
+    {
+        "id": 759,
+        "name": "Påsktårta - våra godaste recept",
+        "description": "Inget påskfirande utan en riktigt god tårta! Oavsett om du föredrar en maffig med massor av choklad, en lättbakad rulltårta eller en sötsyrlig marängtårta har vi ett recept för dig.",
+        "body": null,
+        "url": "/pasktarta",
+        "type": "article",
+        "image": {
+            "id": 37861,
+            "name": "Citronmazarinkaka",
+            "url": "citronmazarinkaka.png",
+            "photographer": "TV4"
+        },
+        "video": null,
+        "categories": [
+            {
+                "id": 155,
+                "name": "Påsk",
+                "type": "category"
+            },
+            {
+                "id": 63,
+                "name": "Typ av bakat och sött",
+                "type": "category"
+            },
+            {
+                "id": 86,
+                "name": "Tårta",
+                "type": "category"
+            }
+        ],
+        "profiles": [],
+        "widgets": [
+            {
+                "id": 13358,
+                "type": "widget",
+                "name": "Påsktårta - mosaik",
+                "widget_type": "Mosaic"
+            },
+            {
+                "id": 8874,
+                "type": "widget",
+                "name": "Påsktårtor - våra godaste recept",
+                "widget_type": "List"
+            },
+            {
+                "id": 7854,
+                "type": "widget",
+                "name": "Påsktårta",
+                "widget_type": "List"
+            },
+            {
+                "id": 7855,
+                "type": "widget",
+                "name": "påsktårta - roy fares",
+                "widget_type": "List"
+            },
+            {
+                "id": 7856,
+                "type": "widget",
+                "name": "påsktårta - rulltårta",
+                "widget_type": "List"
+            },
+            {
+                "id": 7853,
+                "type": "widget",
+                "name": "påsktårta - choklad",
+                "widget_type": "List"
+            },
+            {
+                "id": 12401,
+                "type": "widget",
+                "name": "Påsktårtor - Annat gott i påsk",
+                "widget_type": "List"
+            },
+            {
+                "id": 7863,
+                "type": "widget",
+                "name": "CIRKLAR: påsk",
+                "widget_type": "Carousel"
+            },
+            {
+                "id": 8394,
+                "type": "widget",
+                "name": "Nyhetsbrev bakning",
+                "widget_type": "Newsletter"
+            }
+        ],
+        "first_publish_at": "2013-03-04T14:49:00.000Z"
+    },
+    {
+        "id": 44205,
+        "name": "Fröknäcke med lax- och pepparrotsröra",
+        "type": "recipe",
+        "url": "/froknacke-med-lax-och-pepparrotsrora",
+        "description": "De här snittarna är så enkla att göra och är försvinnande goda. Fröknäcket ger en perfekt crunch till den krämiga laxröran, och en massa god smak av de rostade fröna. Perfekta snittar att servera till påsklunchen!",
+        "ingredients": [
+            {
+                "id": 68327,
+                "name": "Göteborgs Utvalda Fröknäcke Havre & Solros",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "förp",
+                "type": "ingredient"
+            },
+            {
+                "id": 10052,
+                "name": "kallrökt lax",
+                "amount_info": {
+                    "from": 150
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 9770,
+                "name": "färskost",
+                "amount_info": {
+                    "from": 200
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 9676,
+                "name": "crème fraîche",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10598,
+                "name": "rödlök",
+                "plural": "rödlökar",
+                "preparation": "finhackad",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "type": "ingredient"
+            },
+            {
+                "id": 10468,
+                "name": "pepparrotsvisp",
+                "amount_info": {
+                    "to": 2,
+                    "from": 1
+                },
+                "unit": "msk",
+                "type": "ingredient"
+            },
+            {
+                "id": 9728,
+                "name": "färsk dill",
+                "preparation": "finhackad",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "msk",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "type": "ingredient"
+            },
+            {
+                "id": 10793,
+                "name": "svartpeppar",
+                "type": "ingredient"
+            }
+        ],
+        "instructions": "Bryt isär fröknäcke till önskad storlek på snittar, och lägg upp på ett uppläggningsfat.\n\nBlanda ihop färskost, crème fraîche, rödlök, dill, pepparrot och smaka av med salt och peppar. Hacka laxen fint och blanda i röran.\n\nLägg på laxröran på dina snittar. Toppa gärna med lite dill.",
+        "cooking_time": "15 min",
+        "portions": {
+            "from": 6
+        },
+        "image": {
+            "id": 43507,
+            "name": "Fröknäcke med lax- och pepparrotsröra Göteborgs utvalda",
+            "url": "froknacke-med-lax-och-pepparrotsrora-goteborgs-utvalda.png",
+            "photographer": "Köket.se"
+        },
+        "video": null,
+        "profiles": [],
+        "source": {
+            "id": 7076,
+            "name": "Göteborgs Utvalda",
+            "url": "/goteborgs-utvalda",
+            "image": {
+                "id": 37832,
+                "name": "Göteborgs Utvalda header",
+                "url": "goteborgs-utvalda-header.png"
+            },
+            "sponsored": true,
+            "logo_image": {
+                "id": 37835,
+                "name": "goteborgs-utvalda-svg",
+                "url": "goteborgs-utvalda-svg.svg"
+            },
+            "logo_format": "wide",
+            "features": {
+                "hide_from_search": false
+            },
+            "published": true
+        },
+        "categories": [
+            {
+                "id": 164,
+                "name": "Snittar/tilltugg",
+                "type": "category"
+            },
+            {
+                "id": 155,
+                "name": "Påsk",
+                "type": "category"
+            },
+            {
+                "id": 248,
+                "name": "Lax",
+                "type": "category"
+            },
+            {
+                "id": 244,
+                "name": "Fisk"
+            }
+        ],
+        "themes": [
+            {
+                "id": 1782,
+                "name": "Fisk",
+                "url": "/mat/ingredienser/fisk"
+            },
+            {
+                "id": 1572,
+                "name": "Lax",
+                "url": "/mat/ingredienser/fisk/lax"
+            },
+            {
+                "id": 3850,
+                "name": "Snittar och tilltugg",
+                "url": "/mat/typ-av-maltid/tilltugg-snacks-snittar"
+            }
+        ],
+        "sponsored": true,
+        "sponsored_type": "external_advertiser",
+        "embedded_promotion_top1": {
+            "title": "Göteborgs Utvalda Fröknäcke",
+            "text": "Innehåller hela 50% fröer. Prova och njut av det naturligt goda!",
+            "image": {
+                "id": 37837,
+                "name": "Göteborgs Utvalda fröknäcke",
+                "url": "goteborgs-utvalda-froknacke.png"
+            },
+            "url": "https://www.goteborgsutvalda.se",
+            "show": true,
+            "theme": null,
+            "sponsored_theme": null
+        },
+        "embedded_promotion_bottom1": {
+            "title": "Fler tips!",
+            "text": "Här hittar du mer inspiration och härliga recept från Göteborgs Utvalda!",
+            "image": {
+                "id": 43505,
+                "name": "Den perfekta frukosten med fröknäcke Göteborgs utvalda",
+                "url": "den-perfekta-frukosten-med-froknacke-goteborgs-utvalda.png"
+            },
+            "url": "https://www.koket.se/goteborgs-utvalda",
+            "show": true,
+            "theme": null,
+            "sponsored_theme": null
+        },
+        "features": {
+            "hide_from_search": false
+        },
+        "computed_properties": {
+            "disablePortionsConverter": false,
+            "simple": false,
+            "fishOrShellfish": true,
+            "containsMeat": false,
+            "vegetarian": false,
+            "drinkTip": false,
+            "containsChicken": false
+        },
+        "first_publish_at": "2024-03-08T08:11:00.000Z",
+        "rating_count": 3,
+        "rating_value": 5
+    },
+    {
+        "id": 33940,
+        "name": "Lasagne de luxe",
+        "type": "recipe",
+        "url": "/lasagne-de-luxe",
+        "description": "_\"En krämig och smakrik lasagne. Min hemlighet är att jag varvar alla lager med extra ost. Jag lovar att den kommer att göra succé! \"/Jenny_",
+        "information": null,
+        "ingredients": [
+            {
+                "id": 9762,
+                "name": "färska lasagneplattor",
+                "amount_info": {
+                    "to": 12,
+                    "from": 10
+                },
+                "type": "ingredient"
+            },
+            {
+                "id": 9577,
+                "name": "blandfärs",
+                "amount_info": {
+                    "from": 600
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10709,
+                "name": "smör",
+                "preparation": "att steka i",
+                "type": "ingredient"
+            },
+            {
+                "id": 9935,
+                "name": "gul lök",
+                "plural": "gula lökar",
+                "preparation": "riven",
+                "amount_info": {
+                    "from": 1
+                },
+                "type": "ingredient"
+            },
+            {
+                "id": 10934,
+                "name": "vitlök",
+                "plural": "vitlökar",
+                "amount_info": {
+                    "from": 2
+                },
+                "unit": "klyfta",
+                "type": "ingredient"
+            },
+            {
+                "id": 10168,
+                "name": "krossade tomater",
+                "comment": "eller passerade tomater",
+                "amount_info": {
+                    "from": 400
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 9639,
+                "name": "chilisås",
+                "amount_info": {
+                    "from": 0.5
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "type": "ingredient"
+            },
+            {
+                "id": 10462,
+                "name": "peppar",
+                "type": "ingredient"
+            },
+            {
+                "id": 10407,
+                "name": "olivolja",
+                "preparation": "till formen",
+                "type": "ingredient"
+            },
+            {
+                "id": 10369,
+                "name": "mozzarellaost",
+                "plural": "mozzarellaostar",
+                "preparation": "riven",
+                "amount_info": {
+                    "from": 3
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 9738,
+                "name": "färsk oregano",
+                "preparation": "att garnera med",
+                "type": "ingredient"
+            },
+            {
+                "name": "Béchamelsås",
+                "type": "header"
+            },
+            {
+                "id": 10709,
+                "name": "smör",
+                "amount_info": {
+                    "from": 100
+                },
+                "unit": "g",
+                "type": "ingredient"
+            },
+            {
+                "id": 10908,
+                "name": "vetemjöl",
+                "amount_info": {
+                    "from": 1
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10349,
+                "name": "standardmjölk",
+                "amount_info": {
+                    "from": 4
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10919,
+                "name": "vispgrädde",
+                "amount_info": {
+                    "from": 5
+                },
+                "unit": "dl",
+                "type": "ingredient"
+            },
+            {
+                "id": 10373,
+                "name": "muskot",
+                "preparation": "riven",
+                "amount_info": {
+                    "from": 0.25
+                },
+                "unit": "krm",
+                "type": "ingredient"
+            },
+            {
+                "id": 10658,
+                "name": "salt",
+                "type": "ingredient"
+            },
+            {
+                "id": 10462,
+                "name": "peppar",
+                "type": "ingredient"
+            },
+            {
+                "name": "Till servering",
+                "type": "header"
+            },
+            {
+                "id": 10158,
+                "name": "krispsallad",
+                "type": "ingredient"
+            }
+        ],
+        "instructions": "Sätt ugnen på 200 grader. Hetta upp en stekpanna med smör och stek färs, lök och vitlök. Finfördela färsen och se till att den blir genomstekt.\nBlanda ner konserverade tomater, chilisås, salt och peppar. Låt alltsammans sjuda, medan du gör béchamelsåsen.\n#Béchamelsås\nSmält smöret i en kastrull. Vispa ner mjölet, och tillsätt mjölk och grädde under fortsatt vispning så att det inte blir klumpar. Krydda med muskot, salt och peppar. Låt koka upp och sjuda i ett par minuter.\n#Montering\nRingla lite olivolja i en ugnsform. Täck bottnen med béchamelsås och sedan med lasagneplattor. Varva sedan sås, köttfärsröra, riven ost och lasagneplattor ungefär tre gånger. Avsluta med sås och riven ost på toppen.\nGrädda lasagnen i 20 minuter, eller tills osten fått vacker färg.\nServera tillsammans med en god och krispig sallad och toppa gärna med lite oregano.",
+        "cooking_time": "45 m",
+        "portions": {
+            "from": 4
+        },
+        "image": {
+            "id": 27787,
+            "name": "Lasagne de luxe",
+            "url": "lasagne-de-luxe.jpg",
+            "photographer": "Ulrika Pousette"
+        },
+        "video": null,
+        "profiles": [
+            {
+                "id": 5745,
+                "name": "Jenny Warsén",
+                "url": "/jenny-warsen",
+                "image": {
+                    "id": 27810,
+                    "name": "Jenny Warsén porträtt",
+                    "url": "jenny-warsen-portratt.jpg",
+                    "photographer": "Ulrika Pousette"
+                },
+                "published": true
+            }
+        ],
+        "source": {
+            "id": 6415,
+            "name": "Middagstipset",
+            "url": "/middagstipset-2",
+            "image": {
+                "id": 33161,
+                "name": "Middagstipset",
+                "url": "middagstipset.jpg",
+                "photographer": "Ulrika Pousette"
+            },
+            "source_type": "book",
+            "published": true
+        },
+        "categories": [
+            {
+                "id": 19,
+                "name": "Lasagne",
+                "type": "category"
+            },
+            {
+                "id": 160,
+                "name": "Huvudrätt",
+                "type": "category"
+            },
+            {
+                "id": 1,
+                "name": "Typ av maträtter",
+                "type": "category"
+            },
+            {
+                "id": 21,
+                "name": "Pasta"
+            }
+        ],
+        "rating_count": 448,
+        "rating_value": 4.1,
+        "computed_properties": {
+            "disablePortionsConverter": false,
+            "simple": false,
+            "vegetarian": false,
+            "fishOrShellfish": false,
+            "containsMeat": false,
+            "drinkTip": false,
+            "containsChicken": false
+        },
+        "first_publish_at": "2019-01-15T10:03:00.000Z",
+        "themes": [
+            {
+                "id": 3874,
+                "name": "Lasagne",
+                "url": "/mat/ingredienser/pasta/lasagne"
+            }
+        ]
+    }
+]
