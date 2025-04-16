@@ -17,7 +17,7 @@ export default function RecipeCard(
   return (
     <li className={styles["recipe-card"]}>
       <Link
-        href={`/recept${url}`}
+        href={`${url}`}
         className={styles["recipe-card__content-wrapper"]}
       >
         <div className={styles["recipe-card__image-wrapper"]}>
